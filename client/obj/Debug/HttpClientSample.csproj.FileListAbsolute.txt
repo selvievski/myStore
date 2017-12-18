@@ -1,0 +1,10 @@
+C:\Users\filip.selvievski\Desktop\calling-a-web-api-from-a-net-client\sample\client\obj\Debug\HttpClientSample.csproj.CoreCompileInputs.cache
+C:\Users\filip.selvievski\Desktop\calling-a-web-api-from-a-net-client\sample\client\bin\Debug\HttpClientSample.exe.config
+C:\Users\filip.selvievski\Desktop\calling-a-web-api-from-a-net-client\sample\client\bin\Debug\HttpClientSample.exe
+C:\Users\filip.selvievski\Desktop\calling-a-web-api-from-a-net-client\sample\client\bin\Debug\HttpClientSample.pdb
+C:\Users\filip.selvievski\Desktop\calling-a-web-api-from-a-net-client\sample\client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\filip.selvievski\Desktop\calling-a-web-api-from-a-net-client\sample\client\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\filip.selvievski\Desktop\calling-a-web-api-from-a-net-client\sample\client\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\filip.selvievski\Desktop\calling-a-web-api-from-a-net-client\sample\client\obj\Debug\HttpClientSample.exe
+C:\Users\filip.selvievski\Desktop\calling-a-web-api-from-a-net-client\sample\client\obj\Debug\HttpClientSample.pdb
+C:\Users\filip.selvievski\Desktop\calling-a-web-api-from-a-net-client\sample\client\obj\Debug\HttpClientSample.csprojResolveAssemblyReference.cache
